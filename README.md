@@ -1,4 +1,4 @@
-[Yusaku Maezawa (MZ) 前澤友作](https://twitter.com/yousuck2020)さんのフォロワーを全員分取得してみた。
+[総額1億円のお年玉キャンペーン](https://twitter.com/yousuck2020/status/1081544630754103296)の参加者一覧を見るために、[Yusaku Maezawa (MZ) 前澤友作](https://twitter.com/yousuck2020)さんのフォロワーを全員分取得してみた。
 
 ## フォロワーの一覧を見る
 
@@ -9,6 +9,10 @@
 全員（5,744,582人）を見るにはこちら。（ダウンロードにとても時間がかかります）
 
 [ids.txt](https://github.com/ts-3156/yousuck_followers/blob/master/ids.txt)
+
+**注意事項**
+
+ユーザーのプロフィールをダウンロード可能にするとツイッターの利用規約に違反する可能性があるため、User IDの一覧のみを置いています。
 
 ## 自分でやってみる場合
 
@@ -47,4 +51,4 @@ puts "ids #{ids.size}"
 File.write('ids.txt', ids.join("\n"))
 ```
 
-質問は@[ts_3156](https://twitter.com/ts_3156)にご連絡ください。
+質問は@[ts_3156](https://twitter.com/ts_3156)までご連絡ください。
