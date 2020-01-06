@@ -4,7 +4,14 @@
 
 [フォロワーの一覧を見る](https://github.com/ts-3156/yousuck_followers/blob/master/campaign2020/README.md)
 
-![icons](https://ts-3156.github.io/yousuck_followers/icons2020.png)
+### 「RTしたユーザーの一覧」ではなく「フォロワーの一覧」を取得した理由
+
+1. 「RTをしたユーザーの一覧」よりも「フォロワーの一覧」の方が取得が簡単
+1. 「RTとフォロー」を応募条件にしているため、簡易的な集計のためだけであればフォロワーを取得してもおよそ同じになる
+
+データ分析等の目的でユーザーのプロフィール一覧が必要であったり、さらに厳密なRTチェックをしたい方は、有償にて引き受けますのでご連絡ください。
+
+![icons2020](https://ts-3156.github.io/yousuck_followers/icons2020.png)
 
 ----
 
