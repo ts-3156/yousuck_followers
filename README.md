@@ -2,7 +2,9 @@
 
 [総額10億円のお年玉キャンペーン](https://twitter.com/yousuck2020/status/1212025675055452160)の参加者一覧を見るために、[Yusaku Maezawa (MZ) 前澤友作](https://twitter.com/yousuck2020)さんのフォロワーを全員分取得してみた。
 
-フォロワーの一覧を見るには[こちら](https://github.com/ts-3156/yousuck_followers/blob/master/campaign2020/README.md)。
+[フォロワーの一覧を見る](https://github.com/ts-3156/yousuck_followers/blob/master/campaign2020/README.md)
+
+![icons](https://ts-3156.github.io/yousuck_followers/icons2020.png)
 
 ----
 
