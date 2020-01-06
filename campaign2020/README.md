@@ -7,3 +7,7 @@
 全員（6,249,999人）を見るにはこちら。（ダウンロードにとても時間がかかります）
 
 [ids.txt](https://github.com/ts-3156/yousuck_followers/blob/master/campaign2020/ids.txt)
+
+**注意事項**
+
+ユーザーのプロフィールをダウンロード可能にするとツイッターの利用規約に違反する可能性があるため、User IDの一覧のみを置いています。
